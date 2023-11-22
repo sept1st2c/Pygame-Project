@@ -1,5 +1,5 @@
 # Pygame-Project
-**Open mai.py to run the game**
+**Open main.py to run the game**
 
 Python project on gamepy which includes games like space battle, ping pong,anake game and tic tac toe.
 
